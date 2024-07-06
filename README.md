@@ -5,7 +5,7 @@ Both JSP and FJSP are classified as NP-hard problems, meaning they are computati
 
 Due to the NP-hard nature of JSP and FJSP, exact algorithms become impractical for large instances, leading to the widespread application of metaheuristic algorithms. Metaheuristic algorithms, such as Genetic Algorithms (GA), Simulated Annealing (SA), and Particle Swarm Optimization (PSO), offer robust and flexible frameworks to find high-quality solutions within reasonable computational time. These algorithms are inspired by natural processes and are designed to explore the solution space efficiently, avoiding local optima and finding near-optimal solutions.
 
-This repository provides implementations of GA, SA, and PSO for solving JSP and FJSP. By leveraging these metaheuristic algorithms, the repository aims to offer effective and scalable solutions to these complex scheduling problems, demonstrating their applicability and efficiency in real-world scenarios.
+**This repository provides implementations of GA, SA, and PSO for solving JSP and FJSP.** By leveraging these metaheuristic algorithms, the repository aims to offer effective and scalable solutions to these complex scheduling problems, demonstrating their applicability and efficiency in real-world scenarios.
 
 ### Principles of Metaheuristic algorithms
 Detailed explanation of GA/SA/PSO implementation will be updated in the methods folder.
