@@ -1,0 +1,133 @@
+[20 40 37 42 34  7 25  5 24 46 48  6 31 49 16 28 29  1  4 36 26  3 11  8
+ 21 43 14  0 23  2 22 13 12 27 18 17 33 41 45 44 30  9 10 15 35 38 16 17
+ 47 32 33 19 44 20 10 21 14 39 34 25  4  8 12  7 49 18  3 22 48  6 43 42
+ 30 41 15 45 40 38  9 36 29 27 11 23 39  5 24  0  2  1 28 42 31 13 39 31
+ 47 32  7 35 19 26 46 25 37 37 32  1  5 11 47  3  4 45  2  6 18 26  9 21
+ 40 16 33 30 29 17 28 27 24 20 34 44  0  8 48 13 36 35 38 14 46 15 41 19
+ 10 23 22 43 49 12 42 10 39  1 32 35 34 41 14  2 18 30 16 20  8 33 46 37
+ 36 43 15 11 49  4 40 23  3 48 29 17 26 22 25  6  7  5 44 31 24 47 45 38
+ 12  9  0 21  5 27 13 11 29 32 19  7 25 28 20 36 28  9 26 49 14 18 37 22
+ 48 34 13  0  2 12 35 16 21 30 39 47 40 31  8  4 17 15 41  6 46 45 38  3
+ 42 21 44 23 17 43 27 10 19 30  1 24 33 25 27 49 28  3 41 23 42 44 46 48
+ 39 15 31 37  4 36  0 13 26 12 47 20 14  2  9 29  7  5 10  8 35 33 22 24
+  6 43 34 38 11 40 19 16  1 45 18 32 21 37 36  1 40 16 47 42  9 26 20 32
+ 49  4  2  3 29 33 46 22 24 44 48 31 39  5 17 18 12 13 11 30  7 28 41  6
+ 38 15 34  8 35 14 27 25 10 14 45  0 41 19 46 39 42 43 47 43  6 12  1 23
+ 45  9 20 32 27 15 22  4 19 37 40 38 16 24 21  8 44 25 49  5 17 13 36 18
+ 31 34 30  7 33  2 11 28 29  3 30 35 10 48  0 48 26 23 46  0  9 23 24 28
+  5 11 19 25 22  4 36  2 43  6  8 26 33 18 47 44 40 31 37  7 41 13 10 35
+ 14 16 34 49 32 12 20 15  3 39 21  1 38 17 29 27 45 42 33 46 16 14 31 41
+  6 30 35 38 15 22 21  0 28 17 24 45 32  4 13 19 29 26  2  3 27 18 11 20
+ 48  1 44  5 34 25 49  9  7 40 10  8 12 37 47 19 40 39 46 17  2 43 23  4
+ 33 32 20 36 42 36 41 43 44 35 42 13 27 18 23 26  3 29  5 21 16 15 10 11
+  9 31  8 25 45 30 24 34 47 49 22  0 28  6 38  0 37 39  1 46 28 12 14  6
+ 48  7 14 18 10 29  3 39 27 48 38 26 44 47  9 32 15 33 31 37 30 42 16 22
+ 13  1  4  8 25 41  5 34 20 40 19 23 45 17 24 11 36 43  7  2 21 49 35 12
+ 44 43 27 39 20 31 15  0  4 47 46 29 38 34 16 19 36 49 25 12  1 23 45 37
+ 11 24 13 17 14 41 33 35 22  3  6  5 21 26 10 40 42 32 18 28  2 38 49 44
+ 24 12 48 23  7  2 31  8  0 36  9 30  8  1 11 27 42 13 40 29 46  5 32  4
+  6 14 41 47 15 43 33 17 34  9 45 16 48 21 20  3  7 18 39 30 35 19 26 22
+ 10 17 25 12 49 13 28  9 37  7 14  1 27  5 42  0 41  8  4 20 21 29 23 24
+ 15 28 30 39 34 18 47 16 38 35 45 11 37 33  3 43 32 31 46  6  2 36 44 10
+ 48 19 22 40 26 25]
+3681
+Iteration 1/100, Best C_max: 3755, Current Iteration Best: 4249, counter: 2, critical: True
+Iteration 2/100, Best C_max: 3721, Current Iteration Best: 3721, counter: 1, critical: True
+Iteration 3/100, Best C_max: 3721, Current Iteration Best: 4237, counter: 2, critical: True
+Iteration 4/100, Best C_max: 3721, Current Iteration Best: 3764, counter: 3, critical: True
+Iteration 5/100, Best C_max: 3721, Current Iteration Best: 4076, counter: 4, critical: True
+Iteration 6/100, Best C_max: 3681, Current Iteration Best: 3681, counter: 1, critical: True
+Iteration 7/100, Best C_max: 3681, Current Iteration Best: 4125, counter: 2, critical: True
+Iteration 8/100, Best C_max: 3681, Current Iteration Best: 3728, counter: 3, critical: True
+Iteration 9/100, Best C_max: 3681, Current Iteration Best: 4090, counter: 4, critical: True
+Iteration 10/100, Best C_max: 3681, Current Iteration Best: 3736, counter: 5, critical: True
+Iteration 11/100, Best C_max: 3681, Current Iteration Best: 4222, counter: 6, critical: True
+Iteration 12/100, Best C_max: 3681, Current Iteration Best: 3715, counter: 7, critical: True
+Iteration 13/100, Best C_max: 3681, Current Iteration Best: 4015, counter: 8, critical: True
+Iteration 14/100, Best C_max: 3681, Current Iteration Best: 3732, counter: 9, critical: True
+Iteration 15/100, Best C_max: 3681, Current Iteration Best: 4171, counter: 10, critical: True
+Iteration 16/100, Best C_max: 3681, Current Iteration Best: 3752, counter: 1, critical: False
+Iteration 17/100, Best C_max: 3681, Current Iteration Best: 4854, counter: 2, critical: False
+Iteration 18/100, Best C_max: 3681, Current Iteration Best: 4818, counter: 3, critical: False
+Iteration 19/100, Best C_max: 3681, Current Iteration Best: 4942, counter: 4, critical: False
+Iteration 20/100, Best C_max: 3681, Current Iteration Best: 4689, counter: 5, critical: False
+Iteration 21/100, Best C_max: 3681, Current Iteration Best: 4496, counter: 6, critical: False
+Iteration 22/100, Best C_max: 3681, Current Iteration Best: 4129, counter: 7, critical: False
+Iteration 23/100, Best C_max: 3681, Current Iteration Best: 4120, counter: 8, critical: False
+Iteration 24/100, Best C_max: 3681, Current Iteration Best: 4234, counter: 9, critical: False
+Iteration 25/100, Best C_max: 3681, Current Iteration Best: 4265, counter: 10, critical: False
+Iteration 26/100, Best C_max: 3681, Current Iteration Best: 4109, counter: 1, critical: True
+Iteration 27/100, Best C_max: 3681, Current Iteration Best: 4534, counter: 2, critical: True
+Iteration 28/100, Best C_max: 3681, Current Iteration Best: 3967, counter: 3, critical: True
+Iteration 29/100, Best C_max: 3681, Current Iteration Best: 4635, counter: 4, critical: True
+Iteration 30/100, Best C_max: 3681, Current Iteration Best: 4349, counter: 5, critical: True
+Iteration 31/100, Best C_max: 3681, Current Iteration Best: 4808, counter: 6, critical: True
+Iteration 32/100, Best C_max: 3681, Current Iteration Best: 3890, counter: 7, critical: True
+Iteration 33/100, Best C_max: 3681, Current Iteration Best: 4749, counter: 8, critical: True
+Iteration 34/100, Best C_max: 3681, Current Iteration Best: 3867, counter: 9, critical: True
+Iteration 35/100, Best C_max: 3681, Current Iteration Best: 4891, counter: 10, critical: True
+Iteration 36/100, Best C_max: 3681, Current Iteration Best: 3984, counter: 1, critical: False
+Iteration 37/100, Best C_max: 3681, Current Iteration Best: 5159, counter: 2, critical: False
+Iteration 38/100, Best C_max: 3681, Current Iteration Best: 5102, counter: 3, critical: False
+Iteration 39/100, Best C_max: 3681, Current Iteration Best: 5042, counter: 4, critical: False
+Iteration 40/100, Best C_max: 3681, Current Iteration Best: 4420, counter: 5, critical: False
+Iteration 41/100, Best C_max: 3681, Current Iteration Best: 3959, counter: 6, critical: False
+Iteration 42/100, Best C_max: 3681, Current Iteration Best: 4290, counter: 7, critical: False
+Iteration 43/100, Best C_max: 3681, Current Iteration Best: 4294, counter: 8, critical: False
+Iteration 44/100, Best C_max: 3681, Current Iteration Best: 4234, counter: 9, critical: False
+Iteration 45/100, Best C_max: 3681, Current Iteration Best: 4224, counter: 10, critical: False
+Iteration 46/100, Best C_max: 3681, Current Iteration Best: 4190, counter: 1, critical: True
+Iteration 47/100, Best C_max: 3681, Current Iteration Best: 4645, counter: 2, critical: True
+Iteration 48/100, Best C_max: 3681, Current Iteration Best: 4145, counter: 3, critical: True
+Iteration 49/100, Best C_max: 3681, Current Iteration Best: 4820, counter: 4, critical: True
+Iteration 50/100, Best C_max: 3681, Current Iteration Best: 4295, counter: 5, critical: True
+Iteration 51/100, Best C_max: 3681, Current Iteration Best: 4858, counter: 6, critical: True
+Iteration 52/100, Best C_max: 3681, Current Iteration Best: 4218, counter: 7, critical: True
+Iteration 53/100, Best C_max: 3681, Current Iteration Best: 4797, counter: 8, critical: True
+Iteration 54/100, Best C_max: 3681, Current Iteration Best: 4062, counter: 9, critical: True
+Iteration 55/100, Best C_max: 3681, Current Iteration Best: 4660, counter: 10, critical: True
+Iteration 56/100, Best C_max: 3681, Current Iteration Best: 4205, counter: 1, critical: False
+Iteration 57/100, Best C_max: 3681, Current Iteration Best: 5441, counter: 2, critical: False
+Iteration 58/100, Best C_max: 3681, Current Iteration Best: 5039, counter: 3, critical: False
+Iteration 59/100, Best C_max: 3681, Current Iteration Best: 5041, counter: 4, critical: False
+Iteration 60/100, Best C_max: 3681, Current Iteration Best: 5040, counter: 5, critical: False
+Iteration 61/100, Best C_max: 3681, Current Iteration Best: 4656, counter: 6, critical: False
+Iteration 62/100, Best C_max: 3681, Current Iteration Best: 4728, counter: 7, critical: False
+Iteration 63/100, Best C_max: 3681, Current Iteration Best: 4825, counter: 8, critical: False
+Iteration 64/100, Best C_max: 3681, Current Iteration Best: 4705, counter: 9, critical: False
+Iteration 65/100, Best C_max: 3681, Current Iteration Best: 4456, counter: 10, critical: False
+Iteration 66/100, Best C_max: 3681, Current Iteration Best: 4018, counter: 1, critical: True
+Iteration 67/100, Best C_max: 3681, Current Iteration Best: 4866, counter: 2, critical: True
+Iteration 68/100, Best C_max: 3681, Current Iteration Best: 3875, counter: 3, critical: True
+Iteration 69/100, Best C_max: 3681, Current Iteration Best: 4803, counter: 4, critical: True
+Iteration 70/100, Best C_max: 3681, Current Iteration Best: 3941, counter: 5, critical: True
+Iteration 71/100, Best C_max: 3681, Current Iteration Best: 4827, counter: 6, critical: True
+Iteration 72/100, Best C_max: 3681, Current Iteration Best: 4207, counter: 7, critical: True
+Iteration 73/100, Best C_max: 3681, Current Iteration Best: 5017, counter: 8, critical: True
+Iteration 74/100, Best C_max: 3681, Current Iteration Best: 4035, counter: 9, critical: True
+Iteration 75/100, Best C_max: 3681, Current Iteration Best: 4877, counter: 10, critical: True
+Iteration 76/100, Best C_max: 3681, Current Iteration Best: 4082, counter: 1, critical: False
+Iteration 77/100, Best C_max: 3681, Current Iteration Best: 4829, counter: 2, critical: False
+Iteration 78/100, Best C_max: 3681, Current Iteration Best: 5242, counter: 3, critical: False
+Iteration 79/100, Best C_max: 3681, Current Iteration Best: 5007, counter: 4, critical: False
+Iteration 80/100, Best C_max: 3681, Current Iteration Best: 4971, counter: 5, critical: False
+Iteration 81/100, Best C_max: 3681, Current Iteration Best: 4692, counter: 6, critical: False
+Iteration 82/100, Best C_max: 3681, Current Iteration Best: 4820, counter: 7, critical: False
+Iteration 83/100, Best C_max: 3681, Current Iteration Best: 5075, counter: 8, critical: False
+Iteration 84/100, Best C_max: 3681, Current Iteration Best: 4312, counter: 9, critical: False
+Iteration 85/100, Best C_max: 3681, Current Iteration Best: 4392, counter: 10, critical: False
+Iteration 86/100, Best C_max: 3681, Current Iteration Best: 4168, counter: 1, critical: True
+Iteration 87/100, Best C_max: 3681, Current Iteration Best: 4785, counter: 2, critical: True
+Iteration 88/100, Best C_max: 3681, Current Iteration Best: 4180, counter: 3, critical: True
+Iteration 89/100, Best C_max: 3681, Current Iteration Best: 4957, counter: 4, critical: True
+Iteration 90/100, Best C_max: 3681, Current Iteration Best: 4070, counter: 5, critical: True
+Iteration 91/100, Best C_max: 3681, Current Iteration Best: 4915, counter: 6, critical: True
+Iteration 92/100, Best C_max: 3681, Current Iteration Best: 4117, counter: 7, critical: True
+Iteration 93/100, Best C_max: 3681, Current Iteration Best: 4867, counter: 8, critical: True
+Iteration 94/100, Best C_max: 3681, Current Iteration Best: 4215, counter: 9, critical: True
+Iteration 95/100, Best C_max: 3681, Current Iteration Best: 4930, counter: 10, critical: True
+Iteration 96/100, Best C_max: 3681, Current Iteration Best: 4134, counter: 1, critical: False
+Iteration 97/100, Best C_max: 3681, Current Iteration Best: 4772, counter: 2, critical: False
+Iteration 98/100, Best C_max: 3681, Current Iteration Best: 4886, counter: 3, critical: False
+Iteration 99/100, Best C_max: 3681, Current Iteration Best: 4866, counter: 4, critical: False
+Iteration 100/100, Best C_max: 3681, Current Iteration Best: 4910, counter: 5, critical: False

@@ -1,0 +1,32 @@
+[54, 34, 4, 20, 37, 20, 18, 49, 9, 0, 33, 28, 4, 7, 18, 45, 40, 7, 35, 18, 9, 18, 49, 16, 37, 3, 30, 35, 33, 41, 31, 20, 35, 38, 11, 36, 11, 26, 13, 42, 40, 53, 29, 22, 51, 30, 48, 35, 36, 5, 54, 45, 44, 54, 54, 53, 49, 54, 52, 48, 31, 9, 35, 47, 44, 5, 55, 53, 55, 51, 54, 55, 55, 54, 19, 4, 52, 40, 1, 44, 53, 12, 55, 55, 45, 55, 50, 49, 41, 10, 32, 47, 29, 55, 7, 49, 53, 54, 54, 10, 54, 45, 36, 30, 52, 22, 51, 55, 53, 3, 47, 55, 31, 4, 7, 31, 13, 7, 19, 4, 22, 10, 33, 16, 3, 29, 10, 13, 41, 16, 2, 21, 5, 19, 16, 6, 7, 21, 35, 4, 31, 14, 41, 24, 21, 4, 1, 7, 14, 36, 21, 5, 24, 0, 22, 22, 4, 31, 14, 14, 10, 21, 16, 33, 6, 32, 0, 14, 19, 38, 42, 5, 49, 42, 1, 1, 52, 42, 5, 38, 41, 19, 24, 46, 53, 33, 30, 6, 32, 26, 26, 7, 2, 37, 12, 21, 34, 51, 46, 22, 29, 32, 7, 7, 22, 12, 28, 37, 24, 38, 33, 19, 14, 43, 16, 44, 14, 48, 48, 30, 15, 43, 12, 35, 34, 34, 52, 6, 25, 51, 7, 52, 17, 2, 33, 17, 35, 6, 26, 5, 15, 8, 50, 39, 23, 49, 28, 8, 23, 1, 50, 24, 4, 25, 19, 7, 19, 12, 39, 4, 26, 50, 27, 17, 4, 8, 5, 30, 7, 17, 39, 21, 15, 29, 24, 46, 19, 34, 30, 15, 30, 0, 17, 6, 6, 8, 28, 20, 45, 20, 46, 6, 12, 17, 51, 10, 35, 20, 2, 5, 25, 45, 34, 37, 30, 17, 5, 15, 47, 28, 32, 15, 45, 15, 23, 6, 2, 37, 31, 32, 47, 6, 3, 23, 50, 53, 25, 23, 52, 7, 31, 7, 43, 0, 7, 31, 28, 16, 25, 6, 20, 10, 52, 27, 34, 2, 21, 43, 11, 20, 1, 48, 2, 44, 11, 37, 51, 5, 8, 16, 33, 5, 5, 4, 4, 17, 6, 26, 6, 1, 7, 0, 8, 3, 6, 3, 11, 21, 21, 3, 3, 17, 3, 20, 12, 0, 4, 0, 16, 28, 21, 39, 6, 17, 23, 23, 25, 2, 40, 16, 6, 27, 13, 5, 1, 11, 27, 0, 18, 6, 5, 4, 7, 27, 13, 0, 34, 8, 23, 32, 33, 1, 50, 5, 9, 18, 9, 2, 1, 25, 44, 6, 9, 32, 13, 4, 27, 18, 23, 20, 28, 9, 13, 26, 48, 18, 22, 2, 5, 4, 29, 48, 24, 36, 34, 29, 3, 4, 27, 36, 26, 29, 36, 11, 46, 44, 36, 22, 27, 32, 50, 37, 40, 18, 5, 20]
+4496
+Iteration 1/30, Best C_max: 4680, Current Iteration Best: 4680, counter: 1, critical: True
+Iteration 2/30, Best C_max: 4680, Current Iteration Best: 5251, counter: 2, critical: True
+Iteration 3/30, Best C_max: 4680, Current Iteration Best: 4797, counter: 3, critical: True
+Iteration 4/30, Best C_max: 4680, Current Iteration Best: 5259, counter: 4, critical: True
+Iteration 5/30, Best C_max: 4680, Current Iteration Best: 4756, counter: 5, critical: True
+Iteration 6/30, Best C_max: 4680, Current Iteration Best: 5293, counter: 6, critical: True
+Iteration 7/30, Best C_max: 4680, Current Iteration Best: 4719, counter: 7, critical: True
+Iteration 8/30, Best C_max: 4680, Current Iteration Best: 5186, counter: 8, critical: True
+Iteration 9/30, Best C_max: 4672, Current Iteration Best: 4672, counter: 1, critical: True
+Iteration 10/30, Best C_max: 4672, Current Iteration Best: 5180, counter: 2, critical: True
+Iteration 11/30, Best C_max: 4672, Current Iteration Best: 4733, counter: 3, critical: True
+Iteration 12/30, Best C_max: 4672, Current Iteration Best: 5295, counter: 4, critical: True
+Iteration 13/30, Best C_max: 4672, Current Iteration Best: 4722, counter: 5, critical: True
+Iteration 14/30, Best C_max: 4672, Current Iteration Best: 5278, counter: 6, critical: True
+Iteration 15/30, Best C_max: 4635, Current Iteration Best: 4635, counter: 1, critical: True
+Iteration 16/30, Best C_max: 4635, Current Iteration Best: 5187, counter: 2, critical: True
+Iteration 17/30, Best C_max: 4635, Current Iteration Best: 4697, counter: 3, critical: True
+Iteration 18/30, Best C_max: 4635, Current Iteration Best: 5236, counter: 4, critical: True
+Iteration 19/30, Best C_max: 4635, Current Iteration Best: 4717, counter: 5, critical: True
+Iteration 20/30, Best C_max: 4635, Current Iteration Best: 5265, counter: 6, critical: True
+Iteration 21/30, Best C_max: 4635, Current Iteration Best: 4725, counter: 7, critical: True
+Iteration 22/30, Best C_max: 4635, Current Iteration Best: 5266, counter: 8, critical: True
+Iteration 23/30, Best C_max: 4635, Current Iteration Best: 4693, counter: 9, critical: True
+Iteration 24/30, Best C_max: 4635, Current Iteration Best: 5265, counter: 10, critical: True
+Iteration 25/30, Best C_max: 4635, Current Iteration Best: 4644, counter: 1, critical: False
+Iteration 26/30, Best C_max: 4496, Current Iteration Best: 4496, counter: 1, critical: False
+Iteration 27/30, Best C_max: 4496, Current Iteration Best: 4547, counter: 2, critical: False
+Iteration 28/30, Best C_max: 4496, Current Iteration Best: 4585, counter: 3, critical: False
+Iteration 29/30, Best C_max: 4496, Current Iteration Best: 4637, counter: 4, critical: False
+Iteration 30/30, Best C_max: 4496, Current Iteration Best: 4565, counter: 5, critical: False
