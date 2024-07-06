@@ -1,4 +1,4 @@
-### Instruction
+### Introduction
 The Job-shop Scheduling Problem (JSP) and Flexible Job-shop Scheduling Problem (FJSP) are crucial in manufacturing and service industries. JSP involves scheduling a set of jobs, each consisting of a sequence of operations, on a set of machines, with the objective of optimizing certain criteria such as minimizing the total completion time (makespan), reducing idle time, or balancing the workload. FJSP extends JSP by allowing operations to be processed on any machine from a set of available machines, providing additional flexibility but increasing the complexity of the problem.
 
 Both JSP and FJSP are classified as NP-hard problems, meaning they are computationally intensive and difficult to solve exactly within polynomial time as the problem size increases. The complexity arises from the combinatorial nature of the problem, where the number of possible schedules grows exponentially with the number of jobs and machines.
