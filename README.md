@@ -1,3 +1,12 @@
+### 🚀 Get started
+#### 1. Installation
+#### 2. Data Preparation
+Convert your data into Json file, which can be read into {partid:{processid:[[available machine id1, time1], [available machine id2, time2]]}}. Ta01, Ta40, Ta60 and realcase.json have been processed as demos.
+#### 3. Run Metaheuristic Algorithms
+To run the metaheauristic algorithms, you may simp main.py.
+```
+python main.py --solver
+```
 
 
 
