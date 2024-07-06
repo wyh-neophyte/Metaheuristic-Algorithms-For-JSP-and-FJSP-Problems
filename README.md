@@ -17,7 +17,7 @@ You may use the demo jsonfiles in the data direction. Or you need to convert you
     },
 ...
 }
-```.
+```
 
 #### 3. Run Metaheuristic Algorithms
 To run the metaheauristic algorithms, you may simp main.py.
