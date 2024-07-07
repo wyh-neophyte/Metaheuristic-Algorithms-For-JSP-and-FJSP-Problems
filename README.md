@@ -9,7 +9,7 @@ Due to the NP-hard nature of JSP and FJSP, exact algorithms become impractical f
 This repository provides implementations of GA, SA, and PSO for solving JSP and FJSP. By leveraging these metaheuristic algorithms, the repository aims to offer effective and scalable solutions to these complex scheduling problems, demonstrating their applicability and efficiency in real-world scenarios.
 
 ### 📣 Principles of Metaheuristic algorithms
-Detailed explanation of GA/SA/PSO implementation will be updated in the methods folder.
+Detailed explanation of GA/SA/PSO implementation will be updated in [methods](https://github.com/wyh-neophyte/Metaheuristic-Algorithms-For-JSP-and-FJSP-Problems/blob/main/methods/README.md).
 
 ### 🚀 Get started
 #### 1. Installation
