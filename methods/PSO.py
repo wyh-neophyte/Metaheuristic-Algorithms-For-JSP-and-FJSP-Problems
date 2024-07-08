@@ -35,18 +35,18 @@ class PSOSolver:
             for i in range(self.job_num):
                 particle.extend([i] * len(jsonfile[f"{i}"]))
 
-            count = Counter(particle)  # 统计每个元素的出现次数
-            unique_elements = list(count.keys())  # 获取所有唯一的元素
-            result = []  # 存储结果
-            max_length = max(count.values())  # 找到出现次数最多的元素的出现次数
+            count = Counter(particle)  # Count the number of occurrences of each element
+            unique_elements = list(count.keys())  # Get all unique elements
+            result = []  
+            max_length = max(count.values())  #  Find the number of occurrences of the element with the most occurrences
 
             # 创建一个字典来存储每个元素的随机排列
             random_order = {num: random.sample([num] * count[num], count[num]) for num in unique_elements}
 
             for i in range(max_length):
-                random.shuffle(unique_elements)  # 在每一轮循环中随机排列唯一元素
+                random.shuffle(unique_elements)  # Randomise the unique elements in each round of the loop
                 for num in unique_elements:
-                    if random_order[num]:  # 如果该元素还有剩余
+                    if random_order[num]:  
                         result.append(random_order[num].pop(0))
 
             particles.append(result)
@@ -131,14 +131,14 @@ class PSOSolver:
 
             unique_block_nums = sorted(set(mark_list))
             block_updated = False
-            critical_path_len = 1  # 初始关键工序块数量
+            critical_path_len = 1  #  Initial number of critical process blocks
 
             while not block_updated and critical_path_len <= len(unique_block_nums):
                 for block_num in unique_block_nums:
                     if block_num != 0:
                         critical_indices = [j for j in range(len(particles[i])) if mark_list[j] == block_num]
                         if len(critical_indices) <= 1:
-                            continue  # 如果块内只有一个工序，则跳过更新
+                            continue  # If there is only one process in the block, the update is skipped
 
                         # 更新当前关键路径块
                         to_updated_critical = [updated_particle[j] for j in critical_indices[:critical_path_len]]
@@ -160,7 +160,7 @@ class PSOSolver:
                             block_updated = True
                             break
                         else:
-                            updated_particle = particles[i]  # 如果新位置在禁忌列表中，恢复原位置
+                            updated_particle = particles[i]  
 
                 if not block_updated:
                     critical_path_len += 1  # 增加关键工序块数量
