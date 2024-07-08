@@ -11,6 +11,10 @@
 ##### Obtain new solution -- Crossover/Mutation
 
 #### Patricle Swarm Optimization
+##### Pipeline
+
+##### initialize
+##### Obtain new solution -- Coordinate mapping
 
 
 #### Experiment Results
