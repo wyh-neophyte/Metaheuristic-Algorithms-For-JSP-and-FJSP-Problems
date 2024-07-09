@@ -17,6 +17,11 @@ You may install the dependencies by the following command.
 ```
 pip install -e .
 ```
+
+```
+pip install -r requirements.txt
+```
+
 #### 2. Data Preparation
 You may use the demo jsonfiles in the data direction. Or you need to convert your custom data into Json file, which can be read into 
 ```
