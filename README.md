@@ -38,7 +38,7 @@ You may use the demo jsonfiles in the data direction. Or you need to convert you
 ```
 
 #### 3. Run Metaheuristic Algorithms
-To run the metaheauristic algorithms, you may simp main.py.
+To run the metaheauristic algorithms, you may simply run main.py.
 ```
 python main.py --solver select/a/solver/from/GA/SA/PSO --datapath path/to/json/file
 ```
