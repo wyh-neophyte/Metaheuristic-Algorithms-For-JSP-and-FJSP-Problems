@@ -110,7 +110,7 @@ This project is based on our own understanding of metaheuristic algorithms. You 
 
 ## 📬 Contact
 
-For questions or feedback, feel free to open an issue or contact the repository owner via GitHub: [wyh-neophyte](https://github.com/wyh-neophyte)【7†source】.
+For questions or feedback, feel free to open an issue or contact the repository owner via GitHub: [wyh-neophyte](https://github.com/wyh-neophyte) or [TreetreeZhang](https://github.com/TreetreeZhang).
 
 ---
 
