@@ -101,13 +101,6 @@ To modify the behavior of each algorithm:
 
 ---
 
-## 📑 Acknowledgements and References
-This project is based on our own understanding of metaheuristic algorithms. You can explore related research and methodologies in the following papers:
-- [Metaheuristics in Scheduling](https://www.sciencedirect.com/topics/computer-science/job-shop-scheduling)
-- Example datasets: **[Brandimarte's instances](https://www.brandimarte.com/)** [8†source].
-
----
-
 ## 📬 Contact
 
 For questions or feedback, feel free to open an issue or contact the repository owner via GitHub: [wyh-neophyte](https://github.com/wyh-neophyte) or [TreetreeZhang](https://github.com/TreetreeZhang).
